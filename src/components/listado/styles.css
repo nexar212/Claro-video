@@ -1,0 +1,77 @@
+
+.contenedor {
+    width: 100%;
+}
+
+.contenedor .filtro {
+    text-align: center;
+    font-size: 19px;
+    color: white;
+    font-family: 'Roboto';
+}
+
+.contenedor .filtro label {
+    margin-right: 10px;
+}
+
+.contenedor .filtro input {
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 5px;
+}
+
+/* .contenedor .cont-listado {
+    width: 81%;
+    height: auto;
+    margin: auto;
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: repeat(5, 20%);
+    grid-gap: 15px 0;
+} */
+
+.contenedor .cont-listado {
+    margin: auto;
+    width: 85%;
+}
+
+.contenedor .cont-listado .listado {
+    width: 92%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    grid-gap: 15px 0;
+    gap: 15px;
+    align-items: center;
+}
+
+.cont-listado .listado > div {
+    position: relative;
+    width: 280px;
+    height: 163px;
+    cursor: pointer;
+}
+
+.cont-listado .card:hover {
+    opacity: 0.5;
+}
+
+.cont-listado svg {
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    width: 139px;
+}
+
+.cont-listado img {
+    width: 100%;
+}
+
+/* .cont-listado svg:hover {
+    visibility: inherit;
+} */
+
+

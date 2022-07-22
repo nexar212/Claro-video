@@ -1,0 +1,209 @@
+{
+    "peliculas" : [
+        { 
+            "id": "1",
+            "nombre": "Spider-Man: de regreso a casa",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/STILLS/SPIDERMANHOMECOMING-STILL-01.jpg"
+        },
+        {
+            "id": "2",
+            "nombre": "RIDDICK",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/SS/RIDDICKWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/SS/RIDDICKWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn2.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/STILLS/RIDDICK-STILL-01.jpg"
+        },
+        {
+            "id": "3",
+            "nombre": "En la Luna",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/SS/MOONWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/SS/MOONWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/STILLS/MOON-STILL-01.jpg"
+        },
+        {
+            "id": "4",
+            "nombre": "La máquina del recuerdo",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/SS/REMEMORYWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/SS/REMEMORYWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/STILLS/REMEMORY-STILL-01.jpg"
+        },
+        {
+            "id": "5",
+            "nombre": "Triangle",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/SS/TRIANGLEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/SS/TRIANGLEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/STILLS/TRIANGLE-STILL-01.jpg"
+        },
+        {
+            "id": "6",
+            "nombre": "Regresiones de un hombre muerto",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/STILLS/JACKETTHE-STILL-01.jpg"
+        }
+    ],
+    "detallePeliculas": [
+        {
+            "id": "1",
+            "nombre": "Spider-Man: de regreso a casa",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/SS/SPIDERMANHOMECOMINGWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/SPIDERMANHOMECOMING/EXPORTACION_WEB/STILLS/SPIDERMANHOMECOMING-STILL-01.jpg",
+            "detalles": {
+                "anio": "2017",
+                "duracion":"02 h 13 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Luego de su experiencia con los Vengadores, Peter Parker regresa a casa, donde vive con su tía May bajo la atenta mirada de su mentor Tony Stark. Aunque intenta no recurrir a su identidad oculta, su tranquilidad es interrumpida por el Buitre."
+            },
+            "actores": [
+                "Isabella Amara",
+                "Jacob Batalon",
+                "Tom Holland",
+                "Zendaya"
+            ],
+            "escritores": [
+                "Lauren Abioune",
+                "Audra Avery",
+                "Beat Frutiger"
+            ],
+            "genero": [
+                "Anime",
+                "Acción"
+            ]
+        },
+        {
+            "id": "2",
+            "nombre": "RIDDICK",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/SS/RIDDICKWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/SS/RIDDICKWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn2.clarovideo.net/PELICULAS/RIDDICK/EXPORTACION_WEB/STILLS/RIDDICK-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 58 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Traicionado por su propia especie y dado por muerto en un lejano y desolado planeta habitado solo por animales salvajes, el duro Riddick tendrá que luchar por la supervivencia y enfrentarse con nuevos desafíos en soledad."
+            },
+            "actores": [
+                "Vin Diesel",
+                "Karl Urban",
+                "David Twohy"
+            ],
+            "escritores" : [
+                "Vin Diesel",
+                "Ted Field"
+            ],
+            "genero" : [
+                "Acción",
+                "Triller"
+            ]
+        },
+        {
+            "id": "3",
+            "nombre": "En la Luna",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/SS/MOONWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/SS/MOONWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/MOON/EXPORTACION_WEB/STILLS/MOON-STILL-01.jpg",
+            "detalles": {
+                "anio": "2009",
+                "duracion":"01 h 37 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "En el otro lado de la luna, el solitario minero Sam avanza lentamente hacia el final de su período de tres años trabajando para una mega corporación que ha encontrado una veta de oro en la roca lunar. Pero, la locura acecha."
+            },
+            "actores": [
+                "Matt Berry",
+                "Robin Chalk",
+                "Kaya Scodelario"
+            ],
+            "escritores": [
+                "Hideki Arichi",
+                "Jeremy Zimmerman"
+            ],
+            "genero": [
+                "Thriller",
+                "Ciencia Ficción"
+            ]
+        },
+        {
+            "id": "4",
+            "nombre": "La máquina del recuerdo",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/SS/REMEMORYWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/SS/REMEMORYWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/REMEMORY/EXPORTACION_WEB/STILLS/REMEMORY-STILL-01.jpg",
+            "detalles": {
+                "anio": "2017",
+                "duracion":"01 h 51 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Gordon Dunn, un pionero y afamado científico, es encontrado muerto justo después de revelar su nuevo trabajo: una máquina capaz de extraer, grabar y reproducir las emociones de las personas."
+            },
+            "actores": [
+                "Peter Dinklage",
+                "Julia Ormond",
+                "Anton Yelchin"
+            ],
+            "escritores": [
+                "Mark Palansky"
+            ],
+            "genero": [
+                "Misterio",
+                "Drama"
+            ]
+        },
+        {
+            "id": "5",
+            "nombre": "Triangle",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/SS/TRIANGLEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/SS/TRIANGLEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/TRIANGLE/EXPORTACION_WEB/STILLS/TRIANGLE-STILL-01.jpg",
+            "detalles": {
+                "anio": "2009",
+                "duracion":"01 h 38 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Cuando, de camino al puerto, Jess atropella a una gaviota, no se imagina que se trata de un mal presagio. El barco en el que navegará con sus amigos parece desierto, pero no están solos. Alguien los está cazando uno a uno."
+            },
+            "actores": [
+                "Joshua Mclvor",
+                "Melissa George"
+            ],
+            "escritores": [
+                "Chistopher Smith"
+            ],
+            "genero": [
+                "Misterio",
+                "Horror"
+            ]
+        },
+        {
+            "id": "6",
+            "nombre": "Regresiones de un hombre muerto",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/STILLS/JACKETTHE-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Luego de recuperarse de un disparo en la cabeza que le ha producido amnesia, el veterano de la Guerra del Golfo Jack Starks regresa a su hogar en Vermont. Allí es acusado de asesinato y destinado a un asilo que practica tratamientos cuestionables."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        }
+    ]
+}

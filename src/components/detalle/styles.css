@@ -1,0 +1,97 @@
+:where(h2, span) {
+    font-family: 'Roboto';
+    color: white;
+}
+
+.icon-cerrar {
+    width: 100%;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: right;
+    align-content: flex-end;
+}
+
+.icon-cerrar svg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.cont-detalle {
+    position: relative;
+}
+
+.cont-detalle h2 {
+    position: absolute;
+    left: 70px;
+    top: 25px;
+}
+
+.cont-img-detalle {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 50%; */
+    opacity: .1;
+    position: absolute;
+    width: 65vw;
+}
+
+.cont-text-detalle {
+    position: absolute;
+    color: white;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* top: 50%; */
+    height: 100%;
+    top: 90px;
+    left: 60px;
+    font-family: 'Roboto';
+}
+
+.cont-text-detalle .descripcion {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin-left: 30px;
+    width: 100%;
+    margin-left: 30px;
+    width: 35vw;
+    font-size: 12px;
+}
+
+.cont-text-detalle .descripcion .div-detalles {
+    margin-top: 4px;
+}
+
+.descripcion .div-detalles svg {
+    height: 15px;
+}
+
+.cont-text-detalle .descripcion .span-lenguaje {
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    font-weight: 900;
+    margin-left: 10px;
+    padding: 2px 5px;
+}
+
+.cont-text-detalle .descripcion .span-subrayado {
+    text-decoration: underline;
+    margin-left: 5px;
+}
+
+.cont-text-detalle .descripcion .span-normal {
+    margin-left: 5px;
+}
+
+.cont-text-detalle img {
+    height: 200px;
+    top: 50%;
+}
