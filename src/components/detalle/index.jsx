@@ -58,21 +58,23 @@ const Detalle = () => {
                                 {pelicula.detalles.descripcion}
                             </span>
                             <div className='span-props'>
-                                <span className='span-normal'>
-                                    {pelicula.detalles.anio}
-                                </span>
-                                <span className='span-normal'>
-                                    {pelicula.detalles.duracion}
-                                </span>
-                                {pelicula.detalles.subtitulada ?
-                                <span className='span-lenguaje'>
-                                    Subtitulada    
-                                </span> : null }
+                                <div className='div-detalles'>
+                                    <span className='span-normal'>
+                                        {pelicula.detalles.anio}
+                                    </span>
+                                    <span className='span-normal'>
+                                        {pelicula.detalles.duracion}
+                                    </span>
+                                    {pelicula.detalles.subtitulada ?
+                                    <span className='span-lenguaje'>
+                                        Subtitulada    
+                                    </span> : null }
 
-                                {pelicula.detalles.doblada ? 
-                                <span className='span-lenguaje'>
-                                    Doblada
-                                </span> : null}
+                                    {pelicula.detalles.doblada ? 
+                                    <span className='span-lenguaje'>
+                                        Doblada
+                                    </span> : null}
+                                </div>
                                 <div className='div-detalles'>
                                     <span>Actor: </span>
                                     {pelicula.actores.map( item => <span className='span-subrayado'> {item},</span>)}

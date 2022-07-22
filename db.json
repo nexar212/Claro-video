@@ -41,6 +41,69 @@
             "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWHORIZONTAL.jpg?size=290x163",
             "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/SS/JACKETTHEWVERTICAL.jpg?size=200x300",
             "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/JACKETTHE/EXPORTACION_WEB/STILLS/JACKETTHE-STILL-01.jpg"
+        },
+        {
+            "id": "7",
+            "nombre": "Ella es un monstruo",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/SS/COLOSSALWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/SS/COLOSSALWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/STILLS/COLOSSAL-STILL-01.jpg"
+        },
+        {
+            "id": "8",
+            "nombre": "Resident Evil",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/RESIDENTEVILTHEFINALCHAPTER/EXPORTACION_WEB/SS/RESIDENTEVILTHEFINALCHAPTERWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/RESIDENTEVILTHEFINALCHAPTER/EXPORTACION_WEB/SS/RESIDENTEVILTHEFINALCHAPTERWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/STILLS/COLOSSAL-STILL-01.jpg"
+        },
+        {
+            "id": "9",
+            "nombre": "Max Steel",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/SS/MAXSTEEL2016WHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/SS/MAXSTEEL2016WVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn2.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/STILLS/MAXSTEEL2016-STILL-01.jpg"
+        },
+        {
+            "id": "10",
+            "nombre": "Línea mortal",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/SS/FLATLINERS1990WHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/SS/FLATLINERS1990WVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/STILLS/FLATLINERS1990-STILL-01.jpg"
+        },
+        {
+            "id": "11",
+            "nombre": "El ataque de las zombies",
+            "imagenHorizontal": "https://clarovideocdn9.clarovideo.net/PELICULAS/ZOMBIESTRIPPERS/EXPORTACION_WEB/SS/ZOMBIESTRIPPERSWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn7.clarovideo.net/PELICULAS/ZOMBIESTRIPPERS/EXPORTACION_WEB/SS/ZOMBIESTRIPPERSWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn8.clarovideo.net/PELICULAS/ZOMBIESTRIPPERS/EXPORTACION_WEB/STILLS/ZOMBIESTRIPPERS-STILL-01.jpg"
+        },
+        {
+            "id": "12",
+            "nombre": "La llegada",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/ARRIVAL/EXPORTACION_WEB/SS/ARRIVALWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/ARRIVAL/EXPORTACION_WEB/SS/ARRIVALWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/STILLS/FLATLINERS1990-STILL-01.jpg"
+        },
+        {
+            "id": "13",
+            "nombre": "Viral",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/SS/VIRALAKAPESTEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/SS/VIRALAKAPESTEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/STILLS/VIRALAKAPESTE-STILL-01.jpg"
+        },
+        {
+            "id": "14",
+            "nombre": "Cazafantasmas",
+            "imagenHorizontal": "https://clarovideocdn1.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/SS/GHOSTBUSTERS2016EXTENDEDEDITIONWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn9.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/SS/GHOSTBUSTERS2016EXTENDEDEDITIONWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn0.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/STILLS/GHOSTBUSTERS2016EXTENDEDEDITION-STILL-01.jpg"
+        },
+        {
+            "id": "15",
+            "nombre": "Pixels",
+            "imagenHorizontal": "https://clarovideocdn1.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/SS/PIXELSWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn9.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/SS/PIXELSWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn0.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/STILLS/PIXELS-STILL-01.jpg"
         }
     ],
     "detallePeliculas": [
@@ -190,6 +253,249 @@
                 "subtitulada": true,
                 "doblada": true,
                 "descripcion": "Luego de recuperarse de un disparo en la cabeza que le ha producido amnesia, el veterano de la Guerra del Golfo Jack Starks regresa a su hogar en Vermont. Allí es acusado de asesinato y destinado a un asilo que practica tratamientos cuestionables."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "7",
+            "nombre": "Ella es un monstruo",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/SS/COLOSSALWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/SS/COLOSSALWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/STILLS/COLOSSAL-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Gloria descubre que está conectada con una gigantesca criatura que está destruyendo Seúl y deberá determinar por qué su aparentemente insignificante existencia tiene efectos tan colosales en el destino de la Tierra."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "8",
+            "nombre": "Resident Evil",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/RESIDENTEVILTHEFINALCHAPTER/EXPORTACION_WEB/SS/RESIDENTEVILTHEFINALCHAPTERWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/RESIDENTEVILTHEFINALCHAPTER/EXPORTACION_WEB/SS/RESIDENTEVILTHEFINALCHAPTERWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/COLOSSAL/EXPORTACION_WEB/STILLS/COLOSSAL-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Alice es la única sobreviviente de lo que creyó que sería la pelea final de la humanidad contra los No-Muertos. Pero ahora debe regresar a la Colmena en Raccoon City, donde la Corporación Umbrella planea acabar con los sobrevivientes del apocalipsis."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "9",
+            "nombre": "Max Steel",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/SS/MAXSTEEL2016WHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/SS/MAXSTEEL2016WVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn2.clarovideo.net/PELICULAS/MAXSTEEL2016/EXPORTACION_WEB/STILLS/MAXSTEEL2016-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Max McGrath regresa a Copper Canyon, la ciudad en la que murió su padre científico poco después de su nacimiento. Las cosas se ponen complicadas cuando su cuerpo comienza a generar extraños brotes de energía que no puede controlar."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "10",
+            "nombre": "Línea mortal",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/SS/FLATLINERS1990WHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/SS/FLATLINERS1990WVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/STILLS/FLATLINERS1990-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Cinco ambiciosos estudiantes de medicina se embarcan en un experimento para buscar el fin de la vida justo cuando está a punto de declararse la muerte. Pronto descubren que ese breve paseo por la muerte tiene resultados escabrosos."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "11",
+            "nombre": "El ataque de las zombies",
+            "imagenHorizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/SS/FLATLINERS1990WHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn7.clarovideo.net/PELICULAS/ZOMBIESTRIPPERS/EXPORTACION_WEB/SS/ZOMBIESTRIPPERSWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/STILLS/FLATLINERS1990-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Un virus que resulta de un experimento ultrasecreto del gobierno es liberado en un pueblo de Nebraska, muy cerca de un club de striptease. A medida que el virus se expande, va convirtiendo a las bailarinas del club en 'Super Zombie Strippers'."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "12",
+            "nombre": "La llegada",
+            "imagenHorizontal": "https://clarovideocdn3.clarovideo.net/PELICULAS/ARRIVAL/EXPORTACION_WEB/SS/ARRIVALWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn1.clarovideo.net/PELICULAS/ARRIVAL/EXPORTACION_WEB/SS/ARRIVALWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn6.clarovideo.net/PELICULAS/FLATLINERS1990/EXPORTACION_WEB/STILLS/FLATLINERS1990-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Naves alienígenas han llegado a las principales ciudades del mundo. Con la intención de comunicarse con los visitantes, una lingüista y un militar son convocados para descifrar los extraños mensajes de los visitantes. ¿Vienen en paz?"
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "13",
+            "nombre": "Viral",
+            "imagenHorizontal": "https://clarovideocdn5.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/SS/VIRALAKAPESTEWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn3.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/SS/VIRALAKAPESTEWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn4.clarovideo.net/PELICULAS/VIRALAKAPESTE/EXPORTACION_WEB/STILLS/VIRALAKAPESTE-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "En apuros luego de una reciente tragedia familiar, la adolescente Emma Drakeford comienza a realizar un video documental sobre su vida. Su mundo cambia por completo cuando un terrible virus convierte a su comunidad en monstruos feroces."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "14",
+            "nombre": "Cazafantasmas",
+            "imagenHorizontal": "https://clarovideocdn1.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/SS/GHOSTBUSTERS2016EXTENDEDEDITIONWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn9.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/SS/GHOSTBUSTERS2016EXTENDEDEDITIONWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn0.clarovideo.net/PELICULAS/GHOSTBUSTERS2016EXTENDEDEDITION/EXPORTACION_WEB/STILLS/GHOSTBUSTERS2016EXTENDEDEDITION-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Los fantasmas y los demonios se han vuelto a escapar de los infiernos para destruir la ciudad de Nueva York. Esta vez, el equipo de los Cazafantasmas está formado por cuatro mujeres dispuestas a terminar con cualquier amenaza paranormal."
+            },
+            "actores": [
+                "Adrien Brody",
+                "Machenzie Phillip",
+                "Kelly Lynch"
+            ],
+            "escritores": [
+                "Isabelle Guay",
+                "Jhon Maybury"
+            ],
+            "genero": [
+                "Fantasía",
+                "Misterio"
+            ]
+        },
+        {
+            "id": "15",
+            "nombre": "Pixels",
+            "imagenHorizontal": "https://clarovideocdn1.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/SS/PIXELSWHORIZONTAL.jpg?size=290x163",
+            "imagenVertical": "https://clarovideocdn9.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/SS/PIXELSWVERTICAL.jpg?size=200x300",
+            "imagenDetalle": "https://clarovideocdn0.clarovideo.net/PELICULAS/PIXELS/EXPORTACION_WEB/STILLS/PIXELS-STILL-01.jpg",
+            "detalles": {
+                "anio": "2013",
+                "duracion":"01 h 42 min",
+                "subtitulada": true,
+                "doblada": true,
+                "descripcion": "Unos alienígenas malinterpretan las imágenes de las clásicas máquinas de videojuegos como una declaración de guerra y deciden atacar la Tierra. El presidente Will Cooper debe llamar a su mejor amigo de la infancia para detenerlos."
             },
             "actores": [
                 "Adrien Brody",
