@@ -50,7 +50,7 @@
 .cont-listado .listado > div {
     position: relative;
     width: 280px;
-    height: 163px;
+    height: 420px;
     cursor: pointer;
 }
 
@@ -74,4 +74,9 @@
     visibility: inherit;
 } */
 
+@media (min-width: 767px) {
+    .cont-listado .listado > div {
+        height: 163px;
+    }
+}
 

@@ -59,10 +59,17 @@ const Listado = () => {
                 {arrFiltrado.map((item) => {
                     return (
                         <div className='card' onClick={() => irDetalle(item.id)}>
-                            <img
-                                src={item.imagenHorizontal}
-                                alt=""
-                            />
+                            <picture>
+                                <source
+                                    media="(min-width: 768px)"
+                                    srcSet={item.imagenHorizontal}
+                                />
+                                <img
+                                    src={item.imagenVertical}
+                                    alt=""
+                                />
+                            </picture>
+                            
                         </div>
                     )
                 })}
